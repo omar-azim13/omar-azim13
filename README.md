@@ -79,15 +79,12 @@ I'm building **Synthetic** around a long-term interest in AI, software, and priv
 ### activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-azim13&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=A7AFBB&amp;point=F0F3F7&amp;area=true&amp;hide_border=true" alt="GitHub activity graph for omar-azim13" width="100%" />
+  <a href="https://github.com/omar-azim13" title="View my GitHub contribution calendar">
+    <img src="./assets/activity-overview.svg" alt="Live GitHub activity: total contributions, active days, current streak, longest streak, and a yearly contribution calendar" width="100%" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar-azim13&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=DDE4EC&amp;text_color=B9C2CF&amp;icon_color=A4AFBF&amp;rank_icon=none" alt="GitHub stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=omar-azim13&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=B9C2CF&amp;fire=C7D1DB&amp;currStreakLabel=CDD5DE&amp;sideLabels=A5AFBC&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;dates=86909C" alt="GitHub contribution streak" height="160" />
-</p>
-
-<sub>These visuals update from public GitHub data. If one doesn't load, my <a href="https://github.com/omar-azim13">GitHub profile</a> still has the contribution calendar.</sub>
+<sub>Automatically refreshed daily from GitHub’s contribution calendar using GitHub Actions. Private activity is counted only when GitHub makes its anonymized totals available; private repository details remain hidden. <a href="https://github.com/omar-azim13">See GitHub’s native calendar</a> for the canonical count.</sub>
 
 <br /><br />
 

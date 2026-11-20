@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="435" viewBox="0 0 1100 435" role="img" aria-label="GitHub contribution dashboard setup pending">
+<rect width="1100" height="435" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="1098" height="433" rx="13" fill="none" stroke="#30363d" stroke-width="2"/>
+<text x="55" y="92" font-size="25" fill="#e6edf3" font-family="Arial,sans-serif">activity / past 365 days</text>
+<text x="55" y="162" font-size="19" fill="#a9b4c2" font-family="Arial,sans-serif">Dashboard will synchronize on the first GitHub Actions run.</text>
+<text x="55" y="207" font-size="17" fill="#8b949e" font-family="Arial,sans-serif">Repository → Actions → Refresh contribution dashboard → Run workflow</text>
+<line x1="55" x2="1045" y1="249" y2="249" stroke="#30363d"/>
+<text x="55" y="306" font-size="16" fill="#8b949e" font-family="Arial,sans-serif">Data source: GitHub GraphQL contribution calendar</text>
+<text x="55" y="352" font-size="16" fill="#8b949e" font-family="Arial,sans-serif">No fabricated totals. No exposure of private repository names.</text>
+</svg>
