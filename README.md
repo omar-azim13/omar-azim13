@@ -80,7 +80,7 @@ I'm building **Synthetic** around a long-term interest in AI, software, and priv
 
 <p align="center">
   <a href="https://github.com/omar-azim13" title="View my GitHub contribution calendar">
-    <img src="./assets/activity-overview.svg" alt="Live GitHub activity: total contributions, active days, current streak, longest streak, and a yearly contribution calendar" width="100%" />
+    <img src="./assets/activity-overview.svg?v=20261120-1" alt="Live GitHub activity: total contributions, active days, current streak, longest streak, and a yearly contribution calendar" width="100%" />
   </a>
 </p>
 
