@@ -1,96 +1,66 @@
-<div align="center">
+<!-- A small corner of the internet. -->
 
-# OMAR
-
-**frontend developer · interactive interfaces · AI-assisted coding**
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-## About
-
-I build modern frontend experiences, experimental interfaces, and desktop-style tools.
-
-My workflow is AI-assisted: I use **ChatGPT, Codex, Claude, and Claude Code** to prototype, debug, and move faster — then I handle the direction, design decisions, testing, and final polish.
-
-## How I work
-
-`idea → prototype → test → rebuild → polish`
-
-</td>
-<td width="42%" align="center">
-
-<img src="./assets/profile-card.svg" width="100%" alt="Omar developer profile card" />
-
-</td>
-</tr>
-</table>
-
-## Tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css&logoColor=663399" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<p align="center">
+  <img src="./assets/monochrome-banner.png" alt="Abstract monochrome silk, matching my profile picture" width="100%" />
 </p>
 
-## AI workflow
+<h1 align="center">hey, i'm omar.</h1>
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude" />
-  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude Code" />
+<p align="center">
+  student · self-taught developer · curious about a little too much
 </p>
 
-## Selected projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-azim-852b98435/" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/bfc1c6/30343a" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/capitallized" title="X"><img alt="X" src="https://cdn.simpleicons.org/x/bfc1c6/30343a" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/locallyfunded/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/bfc1c6/30343a" height="24" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/omar-azim13" title="GitHub"><img alt="GitHub" src="https://cdn.simpleicons.org/github/bfc1c6/30343a" height="24" /></a>
+</p>
+
+<br />
+
+### a little about me
+
+I'm Omar, a student and software developer based in the UAE. I like figuring out how things work, experimenting with ideas, and building things from scratch — especially around **AI, software, and design**.
+
+A lot of my learning happens by actually making things. I tend to get curious about something, go down a rabbit hole, and come out with more questions than I started with.
+
+Outside of coding, I'm into **entrepreneurship, research, financial markets, and football**. There's a lot I still want to understand.
+
+<br />
+
+### where i'm involved
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### BLACKBOX Terminal
-
-A custom Electron command terminal for launching apps, opening projects, navigating folders, and starting full workspaces from one place.
-
-</td>
-<td width="50%" valign="top">
-
-### BLACKBOX
-
-A cinematic browser terminal with boot sequences, custom commands, system panels, logs, and interactive visual effects.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### JARVIS
-
-A desktop assistant experiment with app launching, voice lines, project detection, and cinematic system overlays.
-
-</td>
-<td width="50%" valign="top">
-
-### OMAR_SYS
-
-An interactive system-style web experience with custom windows, built-in apps, desktop behavior, and a darker visual identity.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%"><a href="https://www.instagram.com/syntheticai_/" title="Synthetic"><img src="./assets/synthetic.svg" alt="Synthetic — founder, AI and software" width="360" /></a></td>
+    <td width="50%"><a href="https://www.tks.world/" title="The Knowledge Society"><img src="./assets/tks.svg" alt="TKS — Innovate 2026–27 and Velocity" width="360" /></a></td>
+  </tr>
 </table>
 
-## Learning now
+I'm building **Synthetic** around a long-term interest in AI, software, and privacy-first technology. I'm also part of **The Knowledge Society (TKS)** through **Innovate 2026–27** and **Velocity** — exploring emerging technologies and learning alongside other builders.
 
-`JavaScript` &nbsp; `Python` &nbsp; `APIs` &nbsp; `Automation`
+<br />
+
+### things i build with
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/typescript/bfc1c6/30343a" height="31" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/bfc1c6/30343a" height="31" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/bfc1c6/30343a" height="31" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/bfc1c6/30343a" height="31" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/bfc1c6/30343a" height="31" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/bfc1c6/30343a" height="31" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/bfc1c6/30343a" height="31" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/bfc1c6/30343a" height="31" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/bfc1c6/30343a" height="31" alt="Figma" title="Figma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/bfc1c6/30343a" height="31" alt="Linux" title="Linux" />
+</p>
+
+<sub>Not an exhaustive list. Just some tools I keep coming back to.</sub>
+
+<br /><br />
 
 ---
 
-<sub>building, testing, rebuilding.</sub>
+<p align="center"><sub>still learning, still figuring things out.</sub></p>
