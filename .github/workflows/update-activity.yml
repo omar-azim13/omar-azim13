@@ -1,0 +1,43 @@
+name: Refresh contribution dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/update-activity.yml'
+      - 'scripts/render_activity.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Generate activity overview
+        env:
+          # Built-in token is used by default. If GitHub omits the private
+          # contribution counts, a least-privilege, read-only token with
+          # appropriate access can be stored as PROFILE_READ_TOKEN.
+          # Never commit a token or grant broad classic repo scope.
+          GH_PROFILE_TOKEN: ${{ secrets.PROFILE_READ_TOKEN || github.token }}
+          GH_PROFILE_USER: omar-azim13
+        run: python3 scripts/render_activity.py
+      - name: Publish updated graphic
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-overview.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh profile activity graphic"
+            git push
+          fi
