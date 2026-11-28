@@ -2,7 +2,7 @@
 <rect width="1100" height="435" rx="14" fill="#0d1117"/>
 <rect x="1" y="1" width="1098" height="433" rx="13" fill="none" stroke="#30363d" stroke-width="2"/>
 <text x="36" y="48" fill="#e6edf3" font-size="21" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">activity / past 365 days</text>
-<text x="1063" y="46" fill="#8b949e" font-size="14" font-weight="normal" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">updated 27 Nov 2026 (UTC)</text>
+<text x="1063" y="46" fill="#8b949e" font-size="14" font-weight="normal" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">updated 28 Nov 2026 (UTC)</text>
 <rect x="36" y="69" width="248" height="112" rx="10" fill="#111820" stroke="#30363d"/>
 <text x="58" y="122" fill="#e6edf3" font-size="38" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">372</text>
 <text x="58" y="157" fill="#a9b4c2" font-size="16" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">contributions</text>
@@ -10,7 +10,7 @@
 <text x="319" y="122" fill="#e6edf3" font-size="38" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">37</text>
 <text x="319" y="157" fill="#a9b4c2" font-size="16" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">active days</text>
 <rect x="558" y="69" width="248" height="112" rx="10" fill="#111820" stroke="#30363d"/>
-<text x="580" y="122" fill="#e6edf3" font-size="38" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">1</text>
+<text x="580" y="122" fill="#e6edf3" font-size="38" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">0</text>
 <text x="580" y="157" fill="#a9b4c2" font-size="16" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">current streak</text>
 <rect x="819" y="69" width="248" height="112" rx="10" fill="#111820" stroke="#30363d"/>
 <text x="841" y="122" fill="#e6edf3" font-size="38" font-weight="600" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">5</text>
@@ -25,7 +25,7 @@
 <rect x="83.0" y="294.8" width="13.9" height="13.9" rx="2.5" fill="#090d12"/>
 <rect x="83.0" y="312.7" width="13.9" height="13.9" rx="2.5" fill="#090d12"/>
 <rect x="83.0" y="330.5" width="13.9" height="13.9" rx="2.5" fill="#090d12"/>
-<rect x="83.0" y="348.4" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
+<rect x="83.0" y="348.4" width="13.9" height="13.9" rx="2.5" fill="#090d12"/>
 <rect x="83.0" y="366.3" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
 <rect x="100.9" y="259.0" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
 <rect x="100.9" y="276.9" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
@@ -390,7 +390,7 @@
 <rect x="1013.1" y="312.7" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
 <rect x="1013.1" y="330.5" width="13.9" height="13.9" rx="2.5" fill="#3b4552"/>
 <rect x="1013.1" y="348.4" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
-<rect x="1013.1" y="366.3" width="13.9" height="13.9" rx="2.5" fill="#090d12"/>
+<rect x="1013.1" y="366.3" width="13.9" height="13.9" rx="2.5" fill="#161b22"/>
 <text x="118.8" y="254" fill="#7e8997" font-size="12" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">Dec</text>
 <text x="190.3" y="254" fill="#7e8997" font-size="12" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">Jan</text>
 <text x="261.9" y="254" fill="#7e8997" font-size="12" font-weight="normal" text-anchor="start" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">Feb</text>
